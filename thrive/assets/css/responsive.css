@@ -47,6 +47,9 @@
 	}
 }
 @media(max-width:768px){
+	.navbar-brand img {
+		width: 40px;
+	}
 	.banner-content h1{
 		font-size: 55px;
 	}
@@ -82,6 +85,15 @@
 		line-height: 18px;
 		top: 35px;
 		left: 160px;
+	}
+	.logo {
+		margin-top: 10px;
+	}
+	.sticky-header {
+		padding: 10px 0;
+	}
+	.header {
+		padding: 5px 0; 
 	}
 }
 @media(max-width:520px){
