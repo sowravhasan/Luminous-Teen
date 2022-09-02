@@ -1,0 +1,142 @@
+@media (max-width:1200px){
+	.banner-content h1 {
+		font-size: 100px;
+	}
+	.img-text p {
+		width: 487px;
+		text-align: center;
+		margin: auto;
+		font-size: 14px;
+		position: absolute;
+		top: 86px;
+		left: 224px;
+	}
+}
+@media (max-width:992px) {
+	.banner-content h1{
+		font-size: 70px;
+	}
+	p.description {
+		font-size: 12px;
+		line-height: 24px;
+	}
+	ul.timeline-list li .timeline_content {
+		width: 45%;
+		color: #333;
+		padding: 14px;
+		float: left;
+		text-align: right;
+	}
+	.timeline_content p{
+		font-size: 12px;
+		line-height: 20px;
+	}
+	.timeline_content h4 {
+		font-size: 18px;
+		font-weight: 600;
+		margin: 2px 0;
+	}
+	.img-text p {
+		width: 350px;
+		text-align: center;
+		margin: auto;
+		font-size: 14px;
+		position: absolute;
+		top: 41px;
+		left: 169px;
+	}
+}
+@media(max-width:768px){
+	.banner-content h1{
+		font-size: 55px;
+	}
+    .dynamic-txts li{
+		color: #791A1A;
+		font-size: 55px;
+	}
+	.img-text p {
+		width: 230px;
+		text-align: center;
+		margin: auto;
+		font-size: 10px;
+		position: absolute;
+		line-height: 18px;
+		top: 28px;
+		left: 141px;
+	}
+}
+@media(max-width:576px){
+	.banner-content h1{
+		font-size: 55px;
+	}
+    .dynamic-txts li{
+		color: #791A1A;
+		font-size: 55px;
+	}
+	.img-text p {
+		width: 230px;
+		text-align: center;
+		margin: auto;
+		font-size: 10px;
+		position: absolute;
+		line-height: 18px;
+		top: 35px;
+		left: 160px;
+	}
+}
+@media(max-width:520px){
+	.banner-content h1{
+		font-size: 55px;
+	}
+    .dynamic-txts li{
+		color: #791A1A;
+		font-size: 55px;
+	}
+}
+@media(max-width:475px){
+	.banner-content h1{
+		font-size: 55px;
+	}
+    .dynamic-txts li{
+		color: #791A1A;
+		font-size: 55px;
+	}
+	
+}
+@media(max-width:430px){
+	.banner-content h1{
+		font-size: 50px;
+	}
+	.dynamic-txts li {
+		color: #791A1A;
+		font-size: 50px;
+	}
+	.img-text p {
+		width: 181px;
+		text-align: center;
+		margin: auto;
+		font-size: 8px;
+		position: absolute;
+		line-height: 15px;
+		top: 18px;
+		left: 99px;
+	}
+}
+@media(max-width:405px){
+	.banner-content h1{
+		font-size: 55px;
+	}
+    .dynamic-txts li{
+		color: #791A1A;
+		font-size: 55px;
+	}
+}
+@media(max-width:385px){
+	.banner-content h1{
+		font-size: 55px;
+	}
+    .dynamic-txts li{
+		color: #791A1A;
+		font-size: 55px;
+	}
+}
