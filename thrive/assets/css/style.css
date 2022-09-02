@@ -320,8 +320,8 @@ a.box_btn:hover:before {
 .banner-content span1{   
     color: #2DCCCC;
 }
-.banner img{
-	z-index: 999;
+.community{
+	border-radius: 50%;
 }
 	.apply1{
 		border: 3px solid #F9C32D;
