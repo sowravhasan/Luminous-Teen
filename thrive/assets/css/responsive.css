@@ -11,6 +11,10 @@
 		top: 86px;
 		left: 224px;
 	}
+	.community{
+		max-width: 100%;
+		width: 750px;
+	}
 }
 @media (max-width:992px) {
 	.banner-content h1{
@@ -44,6 +48,9 @@
 		position: absolute;
 		top: 41px;
 		left: 169px;
+	}
+	a.developer {
+		font-size: 16px;
 	}
 }
 @media(max-width:768px){

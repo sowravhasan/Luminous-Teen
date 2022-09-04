@@ -161,6 +161,18 @@ ul.timeline-list li:nth-child(2n) .timeline_content {
 	.vision7-content{
 		margin-bottom: 30px;
 	}
+	.vision2-img img {
+		margin-bottom: 0px;
+	}
+	.vision3-img img {
+		margin-bottom: 0px;
+	}
+	.vision2-img h5 {
+		margin-bottom: 20px;
+	}
+	.vision3-img h5 {
+		margin-bottom: 20px;
+	}
 	.apply {
 		position: absolute;
 		bottom: 40px;
@@ -234,6 +246,9 @@ ul.timeline-list li:nth-child(2n) .timeline_content {
 	}
 	.footer-area p.copy {
 		padding-top: 30px;
+	}
+	a.developer {
+		font-size: 16px !important;
 	}
 }
 @media (max-width:576px){

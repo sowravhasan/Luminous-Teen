@@ -381,6 +381,15 @@ html{
 	line-height: 30px;
     color: #fff;
 }
+.vision2 img{
+    border-radius: 10px;
+}
+.vision2-img img{
+    padding-bottom: 10px;
+}
+.vision3-img img{
+    padding-bottom: 10px;
+}
 .sdg0 img{
     max-width: 100%;
     width: 200px;
@@ -447,13 +456,15 @@ html{
 	font-size: 18px;
 	line-height:30px
 }
-.vision2-img span{
+.vision2-img h5{
     color: #fff;
-    margin-left: 25px;
+    font-size: 16px;
+    font-weight: 500;
 }
-.vision3-img span{
+.vision3-img h5{
     color: #fff;
-    margin-left: 25px;
+    font-size: 16px;
+    font-weight: 500;
 }
 /* sdg */
 .sdg{
