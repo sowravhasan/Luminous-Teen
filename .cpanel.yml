@@ -1,9 +1,0 @@
----
-deployment:
-  tasks:
-    - export DEPLOYPATH=/home/luminous/public_html/
-    - /bin/rm -r $DEPLOYPATH/*
-    - /bin/cp -r files/* $DEPLOYPATH
-  
-
-
